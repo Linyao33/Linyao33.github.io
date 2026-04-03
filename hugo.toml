@@ -59,7 +59,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   images = []
 
   [params.author]
-    name = "Author"
+    name = "Runyi Yao"
     email = ""
     link = ""
 
